@@ -14,13 +14,13 @@ This project analyzes the Superstore retail dataset and generates visualizations
 
 ---
 
-# How to Run
+## How to Run
 
 ### Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
-#Project Structure
+###Project Structure
 ```bash
 superstore-capstone/
 ├── superstore_capstone.ipynb     
@@ -31,7 +31,7 @@ superstore-capstone/
 │   ├── monthly_sales.png         
 │   └── category_sales.png
 ```
-#Outputs
+###Outputs
 
 -monthly_sales.png — Line chart showing sales trend by month
 
