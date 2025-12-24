@@ -20,7 +20,7 @@ This project analyzes the Superstore retail dataset and generates visualizations
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
-#Project Structure
+Project Structure
 ```bash
 superstore-capstone/
 ├── superstore_capstone.ipynb     
@@ -31,13 +31,13 @@ superstore-capstone/
 │   ├── monthly_sales.png         
 │   └── category_sales.png
 ```
-#Outputs
+Outputs
 
 -monthly_sales.png — Line chart showing sales trend by month
 
 -category_sales.png — Bar chart showing sales by category
 
-##Actionable Insights
+#Actionable Insights
 
 -Technology category generates the highest revenue → prioritize inventory and promotions
 
