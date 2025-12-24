@@ -33,6 +33,7 @@ superstore-capstone/
 │   ├── monthly_sales.png         
 │   └── category_sales.png
 ```
+
 ###Outputs
 
 -'monthly_sales.png' — Line chart showing sales trend by month
